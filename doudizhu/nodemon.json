@@ -1,0 +1,3 @@
+{
+  "ignore": ["dist/", "logs/", "node_modules/","doudizhu.memory-card.json"]
+}
